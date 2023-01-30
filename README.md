@@ -1,6 +1,6 @@
 # 余焱江的个人网站
 
-<https://yang-xijie.github.io>
+<https://yanjiang-yu.github.io>
 
 - 生成 [MkDocs](https://www.mkdocs.org) 
 - 主题 [Material](https://github.com/squidfunk/mkdocs-material)
