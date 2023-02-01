@@ -1,5 +1,5 @@
 # [Info]
-site_name: 个人网站初尝试 # 左上角标题
+site_name: sparkler # 左上角标题
 site_url: https://yanjiang-yu.github.io
 site_author: 余焱江
 site_description: 余焱江的个人网站
@@ -24,12 +24,12 @@ theme:
       toggle:
         icon: material/weather-night
     #    name: 切换至日间模式
-    #- scheme: default # 日间模式
-    #  primary: indigo
-    #  accent: orange
-    #  toggle:
-    #    icon: material/weather-sunny # 图标
-    #    name: 切换至夜间模式 # 鼠标悬浮提示
+    - scheme: default # 日间模式
+      primary: indigo
+      accent: orange
+      toggle:
+        icon: material/weather-sunny # 图标
+     #   name: 切换至夜间模式 # 鼠标悬浮提示
   features:
     - navigation.tabs # 使用Tab来进行分类
     - navigation.top # 返回顶部的按钮 在上滑时出现
@@ -39,7 +39,7 @@ theme:
     - search.highlight # 搜索出的文章关键词加入高亮
   language: en # 一些提示性的文字会变成中文
   icon:
-    logo: material/fire 
+    logo: material/fire
     repo: fontawesome/brands/github
 edit_uri: edit/main/docs # 编辑按钮跳转的链接
 ## [top-right corner]
