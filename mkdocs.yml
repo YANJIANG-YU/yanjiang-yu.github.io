@@ -10,9 +10,6 @@ nav:
     - ABOUT/index.md # 使用两个index 这样子左上角第一次打开会是所有Tab 而不是ABOUT
     - 文章编写帮助: ABOUT/help.md
 
-
-
-
 # [UI]
 ## [top]
 theme:
@@ -24,11 +21,11 @@ theme:
       toggle:
         icon: material/weather-night
     #    name: 切换至日间模式
-    - scheme: default # 日间模式
-      primary: indigo
-      accent: orange
-      toggle:
-        icon: material/weather-sunny # 图标
+    #- scheme: default # 日间模式
+     # primary: indigo
+     # accent: orange
+     # toggle:
+     #   icon: material/weather-sunny # 图标
      #   name: 切换至夜间模式 # 鼠标悬浮提示
   features:
     - navigation.tabs # 使用Tab来进行分类
@@ -37,7 +34,7 @@ theme:
     - navigation.expand # 打开Tab时左侧目录全部展开
     - search.suggest # 搜索输入一些字母时推荐补全整个单词
     - search.highlight # 搜索出的文章关键词加入高亮
-  language: en # 一些提示性的文字会变成中文
+  language: zh # 一些提示性的文字会变成中文
   icon:
   #  logo: material/fire
     repo: fontawesome/brands/github
