@@ -19,8 +19,8 @@ theme:
   name: material
   palette:
     - scheme: slate # 夜间模式
-      primary: deep purple # 上方的
-      accent: purple # 链接等可交互元件的高亮色
+      primary: white # 上方的
+      accent: deep purple # 链接等可交互元件的高亮色
       toggle:
         icon: material/weather-night
     #    name: 切换至日间模式
@@ -37,8 +37,9 @@ theme:
     - navigation.expand # 打开Tab时左侧目录全部展开
     - search.suggest # 搜索输入一些字母时推荐补全整个单词
     - search.highlight # 搜索出的文章关键词加入高亮
-  language: zh # 一些提示性的文字会变成中文
+  language: en # 一些提示性的文字会变成中文
   icon:
+    logo: assets/logo.png
     repo: fontawesome/brands/github
 edit_uri: edit/main/docs # 编辑按钮跳转的链接
 ## [top-right corner]
