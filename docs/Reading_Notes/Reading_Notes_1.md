@@ -1,11 +1,6 @@
-```
 ---
-created: <%+ tp.file.creation_date() %>
-aliases: <%+ tp.file.title %>
-tags: [#阅读笔记]
+title: 我的2023年第一篇阅读笔记
 ---
-```
-
 
 
 # 写在前面
