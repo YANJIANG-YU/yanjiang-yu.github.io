@@ -9,7 +9,8 @@ nav:
   - 关于:
     - ABOUT/index.md # 使用两个index 这样子左上角第一次打开会是所有Tab 而不是ABOUT
     - 文章编写帮助: ABOUT/help.md
-  - 读书笔记：
+  - 读书笔记:
+    - Reading_Notes/index.md # 使用两个index 这样子左上角第一次打开会是所有Tab 而不是ABOUT
     - 《为什么精英都是时间控》: Reading_Notes/Reading_Notes_1.md
 
 # [UI]
