@@ -9,6 +9,9 @@ nav:
   - 关于:
     - ABOUT/index.md # 使用两个index 这样子左上角第一次打开会是所有Tab 而不是ABOUT
     - 文章编写帮助: ABOUT/help.md
+  - 读书笔记：
+    - Reading_Notes/2023年的寒假阅读笔记.md
+
 
 # [UI]
 ## [top]
